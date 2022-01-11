@@ -41,4 +41,7 @@ print(mylist)
 
 # Hello, MIT212
 
+a,b = 100,200
+print(f'a = {a}, b = {b}')
+
 
